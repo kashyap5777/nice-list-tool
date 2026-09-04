@@ -1,14 +1,28 @@
-# Welcome to your Lovable project
+# My Task List
+
+Create a To-Do List web application where users can:
+
+1. Add new tasks with a text input and button
+
+2. View all tasks in a list
+
+3. Mark tasks as complete (with a checkbox)
+
+4. Delete tasks
+
+5. Simple, clean design with a nice color scheme
+
+Use React for the frontend and include basic styling. The app should store tasks in the browser's local storage so tasks persist when the page is refreshed.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6284d724-5c42-4991-84cf-0c7cd925fe96).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +34,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
